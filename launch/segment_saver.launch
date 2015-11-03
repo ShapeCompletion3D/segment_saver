@@ -1,0 +1,3 @@
+<launch>
+  <node name="segment_saver" pkg="segment_saver" type="segment_saver_node" /> 
+</launch>
